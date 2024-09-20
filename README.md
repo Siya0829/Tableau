@@ -1,3 +1,6 @@
+<img width="1440" alt="TABLEAU PROJ" src="https://github.com/user-attachments/assets/ffd77e07-ced7-404d-b842-7ce03bc5aa7e">
+
+
 You can view the Loan Default dasboard in Tableau Public https://public.tableau.com/app/profile/siya.chugh/viz/LOanDefaultDashboard/Dashboard
 
 ### Loan Fraud Analysis Tableau Dashboard
